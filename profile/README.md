@@ -16,3 +16,9 @@ You can contribute to the tools 🔧 you rely on from Fonoster. Here is a list o
 - [Routr](https://github.com/fonoster/routr) - The heart of our VoIP Network
 - [Rox AI](https://github.com/fonoster/rox) - A connector for your Dialogflow Agents
 - [A Marketplace of Integrations](https://github.com/fonoster/marketplace) - A place to find the integrations and VoIP providers that suit you, so you can use them in your Voice Applications
+
+### ❤️ Become a sponsor
+
+If you are planning on using Fonoster a monthly contribution would mean a lot. On its own, open-source doesn't pay the bills. Hopefully, continuing our work can be sustainable with your help.
+
+Click [here](https://github.com/sponsors/fonoster) to become a Github Sponsor  👈👈
