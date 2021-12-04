@@ -21,6 +21,8 @@ You can contribute to the tools 🔧 you rely on from Fonoster. Here is a list o
 
 ### ❤️ Become a sponsor
 
+Help us get to our monthly goal. Currently => ▮▮▮▮▯ 85%
+
 If you are planning on using Fonoster a monthly contribution would mean a lot. On its own, open-source doesn't pay the bills. Hopefully, continuing our work can be sustainable with your help.
 
 Click [here](https://github.com/sponsors/fonoster) to become a Github Sponsor  👈👈
