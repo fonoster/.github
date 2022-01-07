@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/40646537/148553204-fdbed5d8-18b7-4c11-bfab-6d5d3da1840c.mov
+
 ## Hey, this is us <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
