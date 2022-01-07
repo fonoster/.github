@@ -1,10 +1,10 @@
-https://user-images.githubusercontent.com/40646537/148554756-0258e06b-d850-46fb-8206-daf9c601b9bf.mov
-
 ## Hey, this is us <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
 
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/fonoster/shared_invite/enQtODc2NDY5ODA3NzYzLTNjOTRmZDQ5NzgzZjQ1MTQ3ZDQzNTgwOGVjMzIzYTkwNjZlMWU0ZmZjODMxYjIzODJjZGIwY2FiODA3YjU4ZTk)
+
+https://user-images.githubusercontent.com/40646537/148554756-0258e06b-d850-46fb-8206-daf9c601b9bf.mov
 
 ### 🍿 Built by the community
 
