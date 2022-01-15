@@ -4,8 +4,6 @@ We are building Fonoster in the open. We've been doing this since **October 2020
 
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/fonoster/shared_invite/enQtODc2NDY5ODA3NzYzLTNjOTRmZDQ5NzgzZjQ1MTQ3ZDQzNTgwOGVjMzIzYTkwNjZlMWU0ZmZjODMxYjIzODJjZGIwY2FiODA3YjU4ZTk)
 
-https://user-images.githubusercontent.com/40646537/148554756-0258e06b-d850-46fb-8206-daf9c601b9bf.mov
-
 ### 🍿 Built by the community
 
 The open-source community is the 💗 heart of Fonoster and fundamental to how we build software today.
