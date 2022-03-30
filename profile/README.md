@@ -1,5 +1,9 @@
 ## Hey, this is us <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+![Flow](https://raw.githubusercontent.com/fonoster/.github/main/slack_celebration.png)
+
+[Join us today!](https://join.slack.com/t/fonoster/shared_invite/zt-b6n7hrwz-PJT9SXg_RRR9Q1gI7DI6kA)
+
 We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
 
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/fonoster/shared_invite/enQtODc2NDY5ODA3NzYzLTNjOTRmZDQ5NzgzZjQ1MTQ3ZDQzNTgwOGVjMzIzYTkwNjZlMWU0ZmZjODMxYjIzODJjZGIwY2FiODA3YjU4ZTk)
