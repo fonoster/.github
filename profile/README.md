@@ -1,4 +1,4 @@
-## Hey, this is us <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hey, this is us <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px">
 
 <a href="https://join.slack.com/t/fonoster/shared_invite/zt-b6n7hrwz-PJT9SXg_RRR9Q1gI7DI6kA"><img alt="Fonoster Slack Celebration" src="https://raw.githubusercontent.com/fonoster/.github/main/community.png"></img></a>
 
