@@ -14,6 +14,8 @@ The open-source community is the 💗 heart of Fonoster and fundamental to how w
 
 Are you contributing to Fonoster? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open-source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
 
+<a href="https://www.producthunt.com/posts/fonoster?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-fonoster" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=319527&theme=dark&period=daily" alt="Fonoster - Engage&#0032;with&#0032;your&#0032;customers&#0032;with&#0032;VoIP&#0032;or&#0032;SMS | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ### 🦦 Contributing
 
 You can contribute to the tools 🔧 you rely on from Fonoster. Here is a list of the top projects to contribute to:
