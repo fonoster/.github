@@ -2,11 +2,11 @@
 
 <a href="https://join.slack.com/t/fonoster/shared_invite/zt-b6n7hrwz-PJT9SXg_RRR9Q1gI7DI6kA"><img alt="Fonoster Slack Celebration" src="https://raw.githubusercontent.com/fonoster/.github/main/community.png"></img></a>
 
-[Join us today!](https://join.slack.com/t/fonoster/shared_invite/zt-b6n7hrwz-PJT9SXg_RRR9Q1gI7DI6kA)
-
 We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
 
-[![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/fonoster/shared_invite/enQtODc2NDY5ODA3NzYzLTNjOTRmZDQ5NzgzZjQ1MTQ3ZDQzNTgwOGVjMzIzYTkwNjZlMWU0ZmZjODMxYjIzODJjZGIwY2FiODA3YjU4ZTk)
+## JOIN US! 🎉
+
+[![](https://dcbadge.vercel.app/api/server/mpWSRUhG7e?theme=clean-inverted)](https://discord.gg/mpWSRUhG7e)
 
 ### 🍿 Built by the community
 
