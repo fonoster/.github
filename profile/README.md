@@ -1,6 +1,6 @@
 ## Hey, this is us <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px">
 
-<a href="https://join.slack.com/t/fonoster/shared_invite/zt-b6n7hrwz-PJT9SXg_RRR9Q1gI7DI6kA"><img alt="Fonoster Slack Celebration" src="https://raw.githubusercontent.com/fonoster/.github/main/community.png"></img></a>
+<a href="https://discord.gg/mpWSRUhG7e"><img alt="Fonoster Slack Celebration" src="https://raw.githubusercontent.com/fonoster/.github/main/community.png"></img></a>
 
 We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
 
@@ -8,7 +8,7 @@ We are building Fonoster in the open. We've been doing this since **October 2020
 
 [![](https://dcbadge.vercel.app/api/server/mpWSRUhG7e?theme=clean-inverted)](https://discord.gg/mpWSRUhG7e)
 
-<a href="https://discord.gg/mpWSRUhG7e" alt="discord-invite"> ![Discord Banner 2](https://discordapp.com/api/guilds/1016419835455996076/widget.png?style=banner2) </a>
+<a href="https://discord.gg/mpWSRUhG7e" alt="discord-invite" target="_blank"> ![Discord Banner 2](https://discordapp.com/api/guilds/1016419835455996076/widget.png?style=banner2) </a>
 
 ### 🍿 Built by the community
 
