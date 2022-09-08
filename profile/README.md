@@ -4,7 +4,7 @@
 
 We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
 
-## JOIN US! 🎉
+## 🎉 JOIN US! 
 
 [![](https://dcbadge.vercel.app/api/server/mpWSRUhG7e?theme=clean-inverted)](https://discord.gg/mpWSRUhG7e)
 
