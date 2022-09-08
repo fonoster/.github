@@ -8,6 +8,8 @@ We are building Fonoster in the open. We've been doing this since **October 2020
 
 [![](https://dcbadge.vercel.app/api/server/mpWSRUhG7e?theme=clean-inverted)](https://discord.gg/mpWSRUhG7e)
 
+<a href="https://discord.gg/mpWSRUhG7e" alt="discord-invite"> ![Discord Banner 2](https://discordapp.com/api/guilds/1016419835455996076/widget.png?style=banner2) </a>
+
 ### 🍿 Built by the community
 
 The open-source community is the 💗 heart of Fonoster and fundamental to how we build software today.
