@@ -1,24 +1,17 @@
 ## Hey, this is us <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px">
 
 <a href="https://discord.gg/mpWSRUhG7e"><img alt="Fonoster Slack Celebration" src="https://raw.githubusercontent.com/fonoster/.github/main/community.png"></img></a>
+[![Discord](https://img.shields.io/discord/1016419835455996076?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/mpWSRUhG7e) <a href="https://github.com/fonoster/fonoster/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Code%20of%20Conduct-v1.0-ff69b4.svg?color=%2347b96d" alt="Code Of Conduct"></a> ![GitHub](https://img.shields.io/github/license/fonoster/fonoster?color=%2347b96d) ![Twitter Follow](https://img.shields.io/twitter/follow/fonoster?style=social)
 
 We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
 
-## 🎉 JOIN US! 
-
-[![](https://dcbadge.vercel.app/api/server/mpWSRUhG7e?theme=clean-inverted)](https://discord.gg/mpWSRUhG7e)
-
-<a href="https://discord.gg/mpWSRUhG7e" alt="discord-invite" target="_blank"> ![Discord Banner 2](https://discordapp.com/api/guilds/1016419835455996076/widget.png?style=banner2) </a>
-
-### 🍿 Built by the community
+### Built by the community
 
 The open-source community is the 💗 heart of Fonoster and fundamental to how we build software today.
 
 Are you contributing to Fonoster? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open-source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
 
-<a href="https://www.producthunt.com/posts/fonoster?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-fonoster" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=319527&theme=dark&period=daily" alt="Fonoster - Engage&#0032;with&#0032;your&#0032;customers&#0032;with&#0032;VoIP&#0032;or&#0032;SMS | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-### 🦦 Contributing
+### Contributing
 
 You can contribute to the tools 🔧 you rely on from Fonoster. Here is a list of the top projects to contribute to:
 
@@ -27,7 +20,7 @@ You can contribute to the tools 🔧 you rely on from Fonoster. Here is a list o
 - [Rox AI](https://github.com/fonoster/rox) - A connector for your Dialogflow Agents
 - [A Marketplace of Integrations](https://github.com/fonoster/marketplace) - A place to find the integrations and VoIP providers that suit you, so you can use them in your Voice Applications
 
-### ❤️ Become a sponsor
+### Become a sponsor
 
 Help us get to our monthly goal. Currently => ▮▮▮▮▯ 85%
 
