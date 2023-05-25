@@ -6,6 +6,17 @@
 
 We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
 
+### eBook - The future of programmable SIP servers
+
+<a href="https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers">
+<img src="https://raw.githubusercontent.com/psanders/psanders/master/book.png" width="25%"></a>
+
+This handbook is designed to provide a detailed understanding of the innovative features, challenges, and opportunities that Routr presents in the realm of programmable SIP Servers.
+
+Get the eBook.
+
+* [Programmable, cloud ready, open source](https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers)
+
 ### Built by the community
 
 The open-source community is the 💗 heart of Fonoster and fundamental to how we build software today.
