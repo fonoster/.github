@@ -9,7 +9,7 @@ We are building Fonoster in the open. We've been doing this since **October 2020
 ### eBook - The future of programmable SIP servers
 
 <a href="https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers">
-<img src="https://raw.githubusercontent.com/psanders/psanders/master/book.png" width="25%"></a>
+<img src="https://raw.githubusercontent.com/psanders/psanders/master/book.png" width="300px"></a>
 
 This handbook is designed to provide a detailed understanding of the innovative features, challenges, and opportunities that Routr presents in the realm of programmable SIP Servers.
 
