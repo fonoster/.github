@@ -16,9 +16,9 @@ Are you contributing to Fonoster? Yes? Okay, you rock! 🎸 If not, we can help 
 You can contribute to the tools 🔧 you rely on from Fonoster. Here is a list of the top projects to contribute to:
 
 - [Fonoster](https://github.com/fonoster/fonoster) - The primary repo for Fonoster's ecosystem
+- [Goodtok](https://github.com/fonoster/goodtok) - A modern video-oriented contact center
 - [Routr](https://github.com/fonoster/routr) - The heart of our VoIP Network
-- [Rox AI](https://github.com/fonoster/rox) - A connector for your Dialogflow Agents
-- [A Marketplace of Integrations](https://github.com/fonoster/marketplace) - A place to find the integrations and VoIP providers that suit you, so you can use them in your Voice Applications
+
 
 ### eBook - The future of programmable SIP servers
 
