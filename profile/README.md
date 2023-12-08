@@ -38,3 +38,18 @@ Help us get to our monthly goal. Currently => ▮▮▮▮▯ 85%
 If you are planning on using Fonoster a monthly contribution would mean a lot. On its own, open-source doesn't pay the bills. Hopefully, continuing our work can be sustainable with your help.
 
 Click [here](https://github.com/sponsors/fonoster) to become a GitHub Sponsor  👈👈
+
+### Other awesome Telecom OSS
+
+- [OpenSIPS](https://opensips.org/): SIP Server
+- [Kamailio](https://www.kamailio.org/): SIP Server
+- [Jitsi Meet](https://jitsi.org/): Video Conferencing
+- [Homer](https://sipcapture.org/): SIP Capture and Troubleshooting
+- [PJSIP](https://www.pjsip.org/): SIP Library
+- [Asterisk](https://www.asterisk.org/): Communications Toolkit
+- [FreeSWITCH](https://freeswitch.org/): Telecom Software
+- [SIP.js](https://sipjs.com/): JavaScript SIP Library
+- [JsSIP](https://jssip.net/): JavaScript SIP Library
+- [drachtio-server](https://davehorton.github.io/drachtio-server/): Node.js SIP Server
+- [SIPp](https://sipp.sourceforge.io/): SIP Testing Tool
+
