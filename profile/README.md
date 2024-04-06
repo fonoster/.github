@@ -3,7 +3,7 @@
 <a href="https://discord.gg/mpWSRUhG7e"><img alt="Fonoster community banner" src="https://raw.githubusercontent.com/fonoster/.github/main/profile/community.png"></img></a>
 [![Discord](https://img.shields.io/discord/1016419835455996076?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/4QWgSz4hTC) <a href="https://github.com/fonoster/fonoster/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Code%20of%20Conduct-v1.0-ff69b4.svg?color=%2347b96d" alt="Code Of Conduct"></a> ![Twitter Follow](https://img.shields.io/twitter/follow/fonoster?style=social)
 
-We are building Fonoster in the open. We've been doing this since **October 2020**. Since then we pushed **over 5 thousand commits**, opened **over 130 issues**, submitted roughly **+200 pull requests** across **32 repositories** 🤯.
+We are building Fonoster in the open. We've been doing this since **October 2020**. Since then, we pushed **over 5 thousand commits**, opened **over 130 issues**, and submitted roughly **+200 pull requests** across **32 repositories** 🤯.
 
 ### Built by the community
 
@@ -29,13 +29,13 @@ This handbook is designed to provide a detailed understanding of the innovative 
 
 Get the eBook.
 
-* [Programmable, cloud ready, open source](https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers)
+* [Programmable, cloud-ready, open source](https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers)
 
 ### Become a sponsor
 
 Help us get to our monthly goal. Currently => ▮▮▮▮▯ 85%
 
-If you are planning on using Fonoster a monthly contribution would mean a lot. On its own, open-source doesn't pay the bills. Hopefully, continuing our work can be sustainable with your help.
+If you plan to use Fonoster, a monthly contribution would mean a lot. On its own, open-source doesn't pay the bills. Continuing our work can be sustainable with your help.
 
 Click [here](https://github.com/sponsors/fonoster) to become a GitHub Sponsor  👈👈
 
@@ -52,4 +52,5 @@ Click [here](https://github.com/sponsors/fonoster) to become a GitHub Sponsor  �
 - [JsSIP](https://jssip.net/): JavaScript SIP Library
 - [drachtio-server](https://davehorton.github.io/drachtio-server/): Node.js SIP Server
 - [SIPp](https://sipp.sourceforge.io/): SIP Testing Tool
+- [PeerJS](https://sipp.sourceforge.io/): WebRTC Client/Server
 
