@@ -1,11 +1,16 @@
+# Ideas and questions start as Discussions; only bugs and decided work become issues.
+# These defaults apply to every fonoster repo without its own .github/ISSUE_TEMPLATE folder.
 blank_issues_enabled: false
 contact_links:
-  - name: Fonoster Community Support
-    url: https://github.com/fonoster/discussions
-    about: Please ask and answer Fonoster questions here.
-  - name: Routr Community Support
+  - name: "Fonoster: ideas and questions"
+    url: https://github.com/fonoster/fonoster/discussions
+    about: Suggest a feature or ask a question. Ideas become issues once a maintainer decides on them.
+  - name: "Routr: ideas and questions"
     url: https://github.com/fonoster/routr/discussions
-    about: Please ask and answer Routr questions here.
-  - name: Discord Community
+    about: Suggest a feature or ask a question. Ideas become issues once a maintainer decides on them.
+  - name: "Roomr: ideas and questions"
+    url: https://github.com/fonoster/roomr/discussions
+    about: Suggest a feature or ask a question. Ideas become issues once a maintainer decides on them.
+  - name: Discord
     url: https://discord.gg/4QWgSz4hTC
-    about: Join our Discord community here.
+    about: Chat with the community.
