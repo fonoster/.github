@@ -43,6 +43,15 @@
 - name: "area: docs"
   color: "7057ff"
   description: Docs site
+- name: "area: api"
+  color: "7057ff"
+  description: Management API, numbers, trunks, call records
+- name: "area: identity"
+  color: "7057ff"
+  description: Identity, auth, API keys, authorization
+- name: "area: billing"
+  color: "7057ff"
+  description: Billing, metering, Stripe
 
 # --- area: zero or more (routr only) ---
 - name: "area: sip-core"
