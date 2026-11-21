@@ -23,7 +23,7 @@ You can contribute to the tools 🔧 you rely on from Fonoster. Here is a list o
 ### eBook - The future of programmable SIP servers
 
 <a href="https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers">
-<img src="https://raw.githubusercontent.com/fonoster/.github/main/profile/book.png" width="300px"></a>
+<img src="https://raw.githubusercontent.com/fonoster/routr/main/assets/book.png" width="300px"></a>
 
 This handbook is designed to provide a detailed understanding of the innovative features, challenges, and opportunities that Routr presents in the realm of programmable SIP Servers.
 
